@@ -3,7 +3,7 @@
 <body background="https://www.adaptation-undp.org/sites/default/files/styles/image_medium_scaled_x400/public/ctcn-logo.gif" bgcolor="FFCECB">
   
 <h1>Aplicaciones a Fondos de CTCN para proyectos sostenibles de tecnología e innovación</h1>
-  <font="Inscribete!" align="center"></font></h2>
+  <font= align="center">Inscribete!</font>
 Desde el Fondo de Tecnología e Innovación de la Red y Centro de de tecnologia Climática se busca incentivar a los emprendimientos e iniciativas de caracter sostenible y que provean de un medio de consolidación de recursos y talento humano para alcanzar la reducción de emisiones y evitar el ascenso de la temperatura global superior a los 1.5°C.
   <h2>Principios y premisas:</h2>
                                                                                             
