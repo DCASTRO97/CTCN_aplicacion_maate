@@ -1,5 +1,5 @@
 body{
-     background-image:url('https://www.ctc-n.org/sites/www.ctc-n.org/files/styles/taxonomy_cover_banner_683_250/public/_H0A9003_0_0.jpg?'); color:#FFFFFF;
+     background-image:url('https://www.ctc-n.org/sites/www.ctc-n.org/files/styles/taxonomy_cover_banner_683_250/public/_H0A9003_0_0.jpg'); color:#FFFFFF;
 }
 # FONDO DE TECNOLOGIAS SOSTENIBLES DEL CTCN-CONVOCATORIA ECUADOR
 <html>
