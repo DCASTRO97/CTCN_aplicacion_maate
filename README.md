@@ -1,6 +1,6 @@
-# CTCN_aplicacion_maate
+# FONDO DE TECNOLOGIAS SOSTENIBLES DEL CTCN-CONVOCATORIA ECUADOR
 <html>
-<h1>"Aplicaciones a Fondos de CTCN para proyectos sostenibles de tecnología e innovación"</h1>
+<h1>Aplicaciones a Fondos de CTCN para proyectos sostenibles de tecnología e innovación</h1>
 <h2>Incribete!</h2>
 Desde el Fondo de Tecnología e Innovación de la Red y Centro de de tecnologia Climática.
 Principios y premisas:
