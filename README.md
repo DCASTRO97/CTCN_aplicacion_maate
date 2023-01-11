@@ -1,4 +1,4 @@
-<body>{
+body{
 background-image:url("https://www.ctc-n.org/sites/www.ctc-n.org/files/styles/taxonomy_cover_banner_683_250/public/_H0A9003_0_0.jpg?h=1a3c2218&itok=8xrXpwPh"); color:#FFFFFF;
 }
 # FONDO DE TECNOLOGIAS SOSTENIBLES DEL CTCN-CONVOCATORIA ECUADOR
@@ -12,4 +12,4 @@ Desde el Fondo de Tecnología e Innovación de la Red y Centro de de tecnologia 
 Durante los ultimos 20 años, las condiciones de la tierra han ido cambiando de manera singificativa, desastres naturales, problemas con niveles del mar y fenomenos meterologicos devastadores son algunos de los retos que la humanidad enfrenta en una carrera hacia la transición sostenible a contra reloj.                                                                                            
                                                                                             
 </html>
-</body>
+
