@@ -1,6 +1,6 @@
 <html>
 <head>FONDO DE TECNOLOGIAS SOSTENIBLES DEL CTCN-CONVOCATORIA ECUADOR</head>
-<body background="https://www.adaptation-undp.org/sites/default/files/styles/image_medium_scaled_x400/public/ctcn-logo.gif" bgcolor="FFCECB">
+<body background="https://www.adaptation-undp.org/sites/default/files/styles/image_medium_scaled_x400/public/ctcn-logo.gif"; bgcolor="FFCECB">
 <a="https://www.ctc-n.org/node/add/adaptation_fund_application"> Inscribete!</a>
 <h1>Aplicaciones a Fondos de CTCN para proyectos sostenibles de tecnología e innovación</h1>
   
